@@ -1,0 +1,19 @@
+.container {
+  padding: 2rem;
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+}
+
+strong {
+  display: block;
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  color: #333;
+}
