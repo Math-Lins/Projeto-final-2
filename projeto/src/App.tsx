@@ -1,8 +1,13 @@
+import ListaProdutos from './components/ListaProdutos';
+import './index.css';
 
-export default function App() {
+function App() {
   return (
     <div>
       <h1>Catálogo de Produtos</h1>
+      <ListaProdutos />
     </div>
   );
 }
+
+export default App;
